@@ -37,7 +37,7 @@
 Clone the repo
 
 ```sh
-git clone https://github.com/Sakurapainting/visualized_student_information_manage_EasyX
+git clone https://github.com/Sakurapainting/ADCRocker_Basic/
 ```
 
 ### 文件目录说明
