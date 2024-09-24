@@ -1,0 +1,7 @@
+GND-GND
+5V-3.3V
+X-PA0
+Y-PA1
+SW-PA2
+
+PA9 is TX
